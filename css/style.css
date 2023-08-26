@@ -533,3 +533,17 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+.bg-mainColor {
+  --tw-bg-opacity: 1;
+  background-color: rgb(34 69 104 / var(--tw-bg-opacity));
+}
+
+.font-extrabold {
+  font-weight: 800;
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
